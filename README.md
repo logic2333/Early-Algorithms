@@ -9,6 +9,6 @@ These codes are too troublesome to review, so i put them here merely for recordi
 
 这些代码要review起来着实费劲，所以我把它们放在这里仅仅是为了记录。嗯，记录自己的成长历程哈哈哈。
 
-In this repository are two illustrations of data structures, 'huffman tree' and 'graph'. 
+In this repository are illustrations of three data structures, 'huffman tree', 'graph' and 'binary search tree'. 
 
-这个repository里放了两个数据结构的实现，哈弗曼树和图。
+这个repository里放了三个数据结构的实现，哈弗曼树、图和二叉搜索树。
