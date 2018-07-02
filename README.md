@@ -1,5 +1,5 @@
-# Early-Algorithms-C++
-早期作品-算法-C++
+# Early-Algorithms
+早期作品-算法
 
 'Early' means before my graduate period, when my major was not CS-related. These codes show little concept of 'software engineering', or say 'architecture', though some of them can be called 'project'.
 
